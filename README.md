@@ -20,8 +20,8 @@ project: [roadmap.sh/todo-list-api](https://roadmap.sh/projects/todo-list-api)
 # Roadmap
 
 ## Phase 1: Basic Setup
-- [ ] Create the project structure
-- [ ] Set up virtual environment and dependencies
+- [x] Create the project structure
+- [x] Set up virtual environment and dependencies
 - [ ] Configure `.env` and database connection
 - [ ] Test database connection
 
